@@ -1,2 +1,23 @@
-# portfolio-sql
-Portfólio de consultas SQL avançadas, incluindo exercícios práticos e análises de dados.
+# Portfólio de SQL
+Este repositório contém uma coleção de exercícios de SQL, aplicados a uma base de dados fictícia. Cada exercício apresenta um problema real de análise de dados e demonstra a solução utilizando consultas SQL otimizadas.
+
+## Estrutura do Repositório
+`exercises/` > Exercícios detalhados com consultas SQL, explicações e resultados.  
+`assets/` > Diagramas de dados e imagens utilizadas no projeto.
+
+## Exercícios Disponíveis
+- [Análise de Ativos e Ordens de Serviço](exercises/exercise_03/exercise_03.md)
+
+## Como Utilizar
+
+**Explore os Exercícios**
+
+Cada exercício contém um arquivo `.md` com uma explicação detalhada da análise realizada.
+
+**Acesse os Slides**
+
+Os slides apresentam a análise de forma mais visual e resumida.
+
+---
+## Contato
+Caso tenha dúvidas ou sugestões, entre em contato via [LinkedIn](https://www.linkedin.com/in/fabiobfarias/).
