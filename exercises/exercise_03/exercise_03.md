@@ -10,7 +10,7 @@ Este exercício tem como objetivo identificar os ativos que possuem maior númer
 - Agrupamento e Ordenação: GROUP BY e ORDER BY para organizar os resultados.
 
 ## Modelo de dados
-...
+![Diagrama do Exercício 3](../../assets/images/ex03_der.png)
 
 ## Código SQL
 ```sql
@@ -40,7 +40,7 @@ ORDER BY
 - ORDER BY qtd_os DESC: Organiza os resultados em ordem decrescente.
 
 ## Resultados obtidos
-...
+![Diagrama do Exercício 3](../../assets/images/ex03_results.png)
 
 ## Insights
 - O ativo A123 é o mais demandado, correspondendo a 25% das ordens de serviço.
