@@ -7,6 +7,8 @@ Este repositório contém uma coleção de exercícios de SQL, aplicados a uma b
 
 ## Exercícios Disponíveis
 - [Análise de Ativos e Ordens de Serviço](exercises/exercise_03/exercise_03.md)
+- [Análise de Top Ativos por Custo](exercises/exercise_08/exercise_08.md)
+- [Análise de Rank de Ordens de Serviço por Tipo](exercises/exercise_09/exercise_09.md)
 
 ## Como Utilizar
 
